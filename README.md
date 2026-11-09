@@ -12,7 +12,7 @@ Repository **Settings → Pages → Build and deployment → Deploy from a branc
 Website: https://itsmeshenon98.github.io/healthcare-job-radar/
 
 ## Source coverage / caveat
-Only verified public ATS boards are configured in `scripts/ingest.py` (currently Maven Clinic's Greenhouse board). The workflow reports source errors and fails if every configured source fails. This is not yet comprehensive startup discovery: adding a startup requires verifying its public ATS board token or another permitted feed. LinkedIn login-only listings are not scraped.
+Configured public ATS boards are listed in `scripts/ingest.py`; ingestion records per-board failures and successful source counts in `data/jobs.json`. The workflow reports source errors and fails if every configured source fails. This is not yet comprehensive startup discovery: adding a startup requires verifying its public ATS board token or another permitted feed. LinkedIn login-only listings are not scraped.
 
 ## Add employer boards
 Confirm the company's public board token, then add it to `GREENHOUSE` or `LEVER` in `scripts/ingest.py`. Greenhouse public GET job-board endpoints are documented at https://docs.greenhouse.io/job-board.
