@@ -5,7 +5,7 @@ from pathlib import Path
 ROOT=Path(__file__).resolve().parents[1];OUT=ROOT/'data/jobs.json'
 UA='HealthcareJobRadar/1.0 (+public career feed aggregator)'
 # Verified public board(s). Add a company only after confirming its live ATS board token.
-GREENHOUSE=[('Maven Clinic','mavenclinic')]
+GREENHOUSE=[('Maven Clinic','mavenclinic'),('Cohere Health','CohereHealth'),('Truveta','truveta'),('Ophelia','ophelia'),('eClinical Solutions','eclinicalsolutions'),('GHX','globalhealthcareexchangeinc')]
 LEVER=[]
 KEYWORDS=re.compile(r'health|medical|clinical|medicine|patient|pharma|research|biotech|doctor|physician|mbbs|nurs|hospital|diagnostic|pharmacovigilance|health.?tech|regulatory|care|AI|product',re.I)
 def get(url):
