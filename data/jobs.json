@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-18T07:03:44.048029+00:00",
+  "updated_at": "2026-11-18T12:59:27.207884+00:00",
   "jobs": [
     {
       "fingerprint": "2888bfe5fc7c785405c1d0e7804c9d7aabb377c403e52fa1d015b9408ba3828a",
@@ -3101,6 +3101,17 @@
       "company": "100ms",
       "location": "Bengaluru",
       "description": "100ms builds AI agents that automate patient access in US healthcare: benefits verification, prior authorization and referral intake for specialty pharmacies. Our Bangalore team is 140+ and growing.\nWe're looking for an HR & Talent Partner to own tech hiring, employer branding and HR for our tech team, and to lead a small HR and admin team. You'll work closely with our engineering leaders and founders, and use AI and automation to keep hiring and HR fast.",
+      "posted_at": null
+    },
+    {
+      "fingerprint": "24f138c7f536344f297db08b4b0e00d4430aac6df1c25b3ab643f766e3d0bcfe",
+      "source": "Lever",
+      "source_job_id": "42922320-5954-4983-b851-97311d1f9520",
+      "url": "https://jobs.lever.co/endpointclinical/42922320-5954-4983-b851-97311d1f9520",
+      "title": "Product Test Engineer - Staff",
+      "company": "Endpoint Clinical",
+      "location": "Hyderabad, India",
+      "description": "Position Overview: The Product Test Engineer - Staff is responsible ensuring the quality and reliability of product releases, including enhancement and patches. This role focuses on maintaining and improving the software test automation framework, designing and automating test cases, and performing software product testing and troubleshooting. Working closely with the Product team, they will deliver high-quality systems to internal teams while mentoring and coaching less experienced test engineers.",
       "posted_at": null
     }
   ],
