@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-19T07:03:42.961140+00:00",
+  "updated_at": "2026-11-19T13:02:22.911909+00:00",
   "jobs": [
     {
       "fingerprint": "c33c1d29d8cbb01f428001312e86aa595cb4c45f464d7c99935678be1a0d134b",
@@ -3215,7 +3215,7 @@
     }
   ],
   "ingestion": {
-    "fetched_relevant": 242,
+    "fetched_relevant": 240,
     "sources_succeeded": 8,
     "sources_configured": 8,
     "errors": []
