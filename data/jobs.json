@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-23T07:21:55.161627+00:00",
+  "updated_at": "2026-11-23T13:05:20.431482+00:00",
   "jobs": [
     {
       "fingerprint": "9b0b20108d11b1240aadf66c9e722f9b4e584205ddde8d7967d23ba7a35552e4",
@@ -3300,10 +3300,21 @@
       "location": "Hyderabad, India",
       "description": "Position Overview: The Product Test Engineer - Staff is responsible ensuring the quality and reliability of product releases, including enhancement and patches. This role focuses on maintaining and improving the software test automation framework, designing and automating test cases, and performing software product testing and troubleshooting. Working closely with the Product team, they will deliver high-quality systems to internal teams while mentoring and coaching less experienced test engineers.",
       "posted_at": null
+    },
+    {
+      "fingerprint": "2a93052bd7ad5bdd127c64b4a1eb0d4f598180cf3015a68646ff3f3f47512963",
+      "source": "Lever",
+      "source_job_id": "f6d73ecb-7b57-4e4d-a9db-a36f31db32b9",
+      "url": "https://jobs.lever.co/endpointclinical/f6d73ecb-7b57-4e4d-a9db-a36f31db32b9",
+      "title": "Sr. Test Engineer",
+      "company": "Endpoint Clinical",
+      "location": "Bengaluru, India",
+      "description": "Position Overview\n \nThe Software Test Engineer - Senior with IRT / RTSM domain is responsible for the testing and validation of the IRT systems. Working closely with the Lead Test Engineer and Project team, they are responsible for delivering a high quality system to the client. The ideal candidate will have hands-on experience designing, implementing, and maintaining automated test frameworks for complex web applications. Experience in the pharmaceutical or clinical domain is a significant advantage. Familiarity with Behavior-Driven Development (BDD) methodologies is highly desirable.",
+      "posted_at": null
     }
   ],
   "ingestion": {
-    "fetched_relevant": 238,
+    "fetched_relevant": 237,
     "sources_succeeded": 8,
     "sources_configured": 8,
     "errors": []
